@@ -25,7 +25,7 @@ The solution follows **Clean Architecture** principles to ensure maintainability
 * **Patterns**: Repository Pattern, Dependency Injection
 
 ## 📸 Preview
-![Main Screen](screenshots/main.png)
+![Main Screen](screenshots/demo.gif)
 
 ## 🚀 Getting Started
 
