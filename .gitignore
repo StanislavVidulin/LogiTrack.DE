@@ -1,0 +1,11 @@
+[Bb]in/
+[Oo]bj/
+.vs/
+.vscode/
+*.user
+*.suo
+*.sln.docstates
+*.db
+*.db-shm
+*.db-wal
+*.log

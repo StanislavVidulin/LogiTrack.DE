@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+    <File Path="README.md" />
+    <File Path="screenshots/main.png" />
+  </Folder>
+  <Project Path="LogiTrack.Api/LogiTrack.Api.csproj" />
+  <Project Path="LogiTrack.Application/LogiTrack.Application.csproj" Id="96203d4e-813c-4bda-8fdf-2dfbb1f2c986" />
+  <Project Path="LogiTrack.Desktop/LogiTrack.Desktop.csproj" />
+  <Project Path="LogiTrack.Domain/LogiTrack.Domain.csproj" Id="b325bd5c-b415-4c21-9f01-e3957376d1bc" />
+  <Project Path="LogiTrack.Infrastructure/LogiTrack.Infrastructure.csproj" Id="cb2203c6-d2fc-497a-ba35-d17c95213c43" />
+</Solution>
