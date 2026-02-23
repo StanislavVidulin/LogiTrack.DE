@@ -23,7 +23,7 @@ The solution follows **Clean Architecture** principles to ensure maintainability
 * **Database**: SQLite (Local storage)
 * **ORM**: Entity Framework Core
 * **Patterns**: Repository Pattern, Dependency Injection
-* 
+
 ## 📸 Preview
 ![Main Screen](screenshots/main.png)
 
