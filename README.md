@@ -31,4 +31,4 @@ The solution follows **Clean Architecture** principles to ensure maintainability
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/LogiTrack.git
+git clone https://github.com/StanislavVidulin/LogiTrack.git
